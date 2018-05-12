@@ -12,6 +12,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/5176
     wikipedia: http://en.wikipedia.org/wiki/Eva_March_Tappan
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/30893#The-Little-Book-of-the-Flag
 gutenberg_issued: '2010-01-08'
 gutenberg_type: Text
 identifiers:
